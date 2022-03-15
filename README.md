@@ -1,1 +1,2 @@
 # odin-recipes
+This project its to make a website about recipes with different pages for each recipe using only html, at the same time practice commit in git uploading the changes to the project to github and with correct and consice commit messages. 
