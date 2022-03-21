@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(74, 82, 90);
+}
+.title {
+    color: purple;
+    background-color: ;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+}
+.center{
+    flex: content;
+    justify-content: center;
+    text-align: center;
+}
+#chef,
+#egg,
+#taco,
+#sand {
+    width: 500px;
+    height: auto;
+}
+.list {
+    text-align: justify;
+    list-style-position: inside;
+    list-style: square;
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(37, 24, 24);
+}
+.subtitle{
+    font-size: 35px;
+    color: rgb(0, 37, 250);    
+    font-weight: bold;
+    text-align: center;
+}
+.text{
+    text-align: justify;
+    font-size: 20px;
+    color: rgb(37, 24, 24);
+}
+button{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
